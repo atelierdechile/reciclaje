@@ -1,6 +1,6 @@
 {"name": "Tipos plástico",
  "children": [
-             {"name": "Tipo 1",
+             {"name": "Tipo 1: PETE, Polietileno Tereftalato",
               "children": [
                           {"name": "KM - Latch",
                           "children": [ {"name": "Location", "size": 1005},
@@ -12,7 +12,7 @@
                           }
                           ]
              }, 
-  {"name": "Tipo 2",
+  {"name": "Tipo 2: HDPE, Polietileno de Alta Densidad",
               "children": [
                           {"name": "KM - Latch",
                           "children": [ {"name": "Location", "size": 1005},
@@ -24,7 +24,7 @@
                           }
                           ]
              }, 
-  {"name": "Tipo 3",
+  {"name": "Tipo 3: V, Policloruro de vinilo",
               "children": [
                           {"name": "KM - Latch",
                           "children": [ {"name": "Location", "size": 1005},
@@ -36,7 +36,7 @@
                           }
                           ]
              }, 
-  {"name": "Tipo 4",
+  {"name": "Tipo 4: HDPE, Polietileno de Baja Densidad",
               "children": [
                           {"name": "KM - Latch",
                           "children": [ {"name": "Location", "size": 1005},
@@ -48,7 +48,7 @@
                           }
                           ]
              }, 
-  {"name": "Tipo 5",
+  {"name": "Tipo 5: PP, Polipropileno",
               "children": [
                           {"name": "KM - Latch",
                           "children": [ {"name": "Location", "size": 1005},
@@ -60,7 +60,7 @@
                           }
                           ]
              }, 
-  {"name": "Tipo 6",
+  {"name": "Tipo 6: PS, Poliestireno",
               "children": [
                           {"name": "KM - Latch",
                           "children": [ {"name": "Location", "size": 1005},
@@ -72,7 +72,7 @@
                           }
                           ]
              }, 
-             {"name": "Tipo 7",
+             {"name": "Tipo 7: Otros",
               "children": [ {"name": "Water", "size": 1001},
                             {"name": "xtream Situations", "size": 1002},
                             {"name": "Drones", "size": 1003},
