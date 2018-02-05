@@ -12,7 +12,67 @@
                           }
                           ]
              }, 
-             {"name": "Tipo 2",
+  {"name": "Tipo 2",
+              "children": [
+                          {"name": "KM - Latch",
+                          "children": [ {"name": "Location", "size": 1005},
+                                        {"name": "Alphabetic", "size": 1004},
+                                        {"name": "Timeline", "size": 1003},
+                                        {"name": "Category", "size": 1002},
+                                        {"name": "Hierarchy", "size": 1001}
+                                      ]
+                          }
+                          ]
+             }, 
+  {"name": "Tipo 3",
+              "children": [
+                          {"name": "KM - Latch",
+                          "children": [ {"name": "Location", "size": 1005},
+                                        {"name": "Alphabetic", "size": 1004},
+                                        {"name": "Timeline", "size": 1003},
+                                        {"name": "Category", "size": 1002},
+                                        {"name": "Hierarchy", "size": 1001}
+                                      ]
+                          }
+                          ]
+             }, 
+  {"name": "Tipo 4",
+              "children": [
+                          {"name": "KM - Latch",
+                          "children": [ {"name": "Location", "size": 1005},
+                                        {"name": "Alphabetic", "size": 1004},
+                                        {"name": "Timeline", "size": 1003},
+                                        {"name": "Category", "size": 1002},
+                                        {"name": "Hierarchy", "size": 1001}
+                                      ]
+                          }
+                          ]
+             }, 
+  {"name": "Tipo 5",
+              "children": [
+                          {"name": "KM - Latch",
+                          "children": [ {"name": "Location", "size": 1005},
+                                        {"name": "Alphabetic", "size": 1004},
+                                        {"name": "Timeline", "size": 1003},
+                                        {"name": "Category", "size": 1002},
+                                        {"name": "Hierarchy", "size": 1001}
+                                      ]
+                          }
+                          ]
+             }, 
+  {"name": "Tipo 6",
+              "children": [
+                          {"name": "KM - Latch",
+                          "children": [ {"name": "Location", "size": 1005},
+                                        {"name": "Alphabetic", "size": 1004},
+                                        {"name": "Timeline", "size": 1003},
+                                        {"name": "Category", "size": 1002},
+                                        {"name": "Hierarchy", "size": 1001}
+                                      ]
+                          }
+                          ]
+             }, 
+             {"name": "Tipo 7",
               "children": [ {"name": "Water", "size": 1001},
                             {"name": "xtream Situations", "size": 1002},
                             {"name": "Drones", "size": 1003},
