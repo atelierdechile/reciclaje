@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": 
+[
+    {"type": "Feature",
+     "geometry": {"type": "LineString",   "coordinates": [[287.3123762, -39.1002406], [287.4123770, -39.2002410]]   },
+     "paint": {  "line-color": "#888",  "line-width": 200  },
+     "properties": {
+       "name": "Gorbea",
+       "fono": "+569",
+       "días": "miércoles, viernes",
+       "URL": "<a href=http://www.talca.cl> Talca </a>",
+       "email": "ceramicavicson@gmail.com",
+       "material": "maderao"
+      }
+    },
+    {"type": "Feature",
+     "geometry": {"type": "Point",   "coordinates": [      289.3299505,     -33.4456397     ]   },
+     "properties": {
+     "name": "Talabartero Juan Acosta",
+     "URL": "<a href=http://acostalabartero.blogspot.cl> Blog Juan Acosta </a>",
+     "fono": "+569",
+     "fecha": "@",
+     "tema": "café de especialidad"
+     }
+   }
+  ]
+}
